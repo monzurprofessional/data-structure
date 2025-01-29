@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b195512-4a2f-46c1-b75a-2aaf725e1074" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ac practices- dsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin2Dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/digits_to_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/largestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pairs_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plus_one_leetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plus_one_leetcode_v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime_optimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/print_subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumOfFistnNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kadanes_algorith_MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxSubarray_Prefix_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/monzurprofessional/data-structure.git",
-    "accountId": "066f6706-e718-4a87-b41a-001d7d33816d"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;monzurprofessional&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/monzurprofessional/data-structure.git&quot;,
+    &quot;accountId&quot;: &quot;066f6706-e718-4a87-b41a-001d7d33816d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -60,11 +49,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.Kadanes_algorith_MaxSum.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.array.executor": "Run",
     "Application.bin2Dec.executor": "Run",
     "Application.digits_to_array.executor": "Run",
     "Application.largestNumber.executor": "Run",
+    "Application.maxSubarray_Prefix_array.executor": "Run",
     "Application.pairs_in_array.executor": "Run",
     "Application.plus_one_leetcode.executor": "Run",
     "Application.plus_one_leetcode_v2.executor": "Run",
@@ -76,7 +67,8 @@
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/monzuralam/IdeaProjects/ac practices- dsa",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,7 +97,17 @@
       <option name="presentableId" value="Default" />
       <updated>1737045034080</updated>
       <workItem from="1737753672311" duration="1983000" />
+      <workItem from="1738134645272" duration="1890000" />
     </task>
+    <task id="LOCAL-০০০০১" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1738089485002</created>
+      <option name="number" value="০০০০১" />
+      <option name="presentableId" value="LOCAL-০০০০১" />
+      <option name="project" value="LOCAL" />
+      <updated>1738089485004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
