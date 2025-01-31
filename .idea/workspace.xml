@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b195512-4a2f-46c1-b75a-2aaf725e1074" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kadanes_algorith_MaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxSubarray_Prefix_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trapped_Rainwater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buyAndSellStocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kadanes_algorith_MaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kadanes_algorith_MaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +53,10 @@
     "Application.BinarySearch.executor": "Run",
     "Application.Kadanes_algorith_MaxSum.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Trapped_Rainwater.executor": "Run",
     "Application.array.executor": "Run",
     "Application.bin2Dec.executor": "Run",
+    "Application.buyAndSellStocks.executor": "Run",
     "Application.digits_to_array.executor": "Run",
     "Application.largestNumber.executor": "Run",
     "Application.maxSubarray_Prefix_array.executor": "Run",
@@ -97,7 +101,9 @@
       <option name="presentableId" value="Default" />
       <updated>1737045034080</updated>
       <workItem from="1737753672311" duration="1983000" />
-      <workItem from="1738134645272" duration="1890000" />
+      <workItem from="1738134645272" duration="7853000" />
+      <workItem from="1738154688155" duration="4761000" />
+      <workItem from="1738240135284" duration="1277000" />
     </task>
     <task id="LOCAL-০০০০১" summary="init commit">
       <option name="closed" value="true" />
@@ -107,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738089485004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-০০০০২" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1738142381912</created>
+      <option name="number" value="০০০০২" />
+      <option name="presentableId" value="LOCAL-০০০০২" />
+      <option name="project" value="LOCAL" />
+      <updated>1738142381913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +141,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
